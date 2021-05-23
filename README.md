@@ -1,6 +1,6 @@
 # PrisonersDilemmaTournament
 
-This is my CS 269i class project.
+This is CaryKH's CS 269i class project.
 
 Watch This Place's awesome videos about iterated Prisoner's Dilemma for context!
 
